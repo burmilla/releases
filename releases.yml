@@ -1,0 +1,4 @@
+---
+available:
+  - rancheroscommunity/os:v1.9.1
+current: rancheroscommunity/os:v1.9.1
