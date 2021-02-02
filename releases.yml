@@ -1,5 +1,5 @@
 ---
 available:
   - burmilla/os:v1.9.0
-  - burmilla/os:v1.9.1-rc1
-current: burmilla/os:v1.9.0
+  - burmilla/os:v1.9.1
+current: burmilla/os:v1.9.1
