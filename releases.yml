@@ -3,4 +3,5 @@ available:
   - burmilla/os:v1.9.0
   - burmilla/os:v1.9.1
   - burmilla/os:v1.9.2
-current: burmilla/os:v1.9.2
+  - burmilla/os:v1.9.3
+current: burmilla/os:v1.9.3
