@@ -7,4 +7,5 @@ available:
   - burmilla/os:v1.9.5
   - burmilla/os:v1.9.6
   - burmilla/os:v2.0.1
-current: burmilla/os:v2.0.1
+  - burmilla/os:v2.0.2
+current: burmilla/os:v2.0.2
