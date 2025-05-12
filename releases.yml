@@ -1,9 +1,7 @@
 ---
 available:
-  - burmilla/os:v2.0.0-beta2
-  - burmilla/os:v2.0.0-beta6
-  - burmilla/os:v2.0.0-beta7
-  - burmilla/os:v2.0.0-rc1
-  - burmilla/os:v2.0.0-rc2
   - burmilla/os:v2.0.0
-current: burmilla/os:v2.0.0
+  - burmilla/os:v2.0.1
+  - burmilla/os:v2.0.2
+  - burmilla/os:v2.0.3
+current: burmilla/os:v2.0.3
